@@ -1,6 +1,6 @@
-# VLC Reskin
+# VLC Reskin: Juxtopposed's VLC Redesign as a working app
 
-**An unofficial reskin of VLC media player that applies [Juxtopposed](https://figma.com/@juxtopposed)'s "VLC Redesign".**
+**An unofficial reskin of VLC media player that applies [Juxtopposed](https://figma.com/@juxtopposed)'s "VLC Redesign"** (from the video *I Redesigned VLC After 25 Years*), so you can actually use the Juxtopposed VLC redesign on Windows.
 
 > **I didn't design this, and I didn't make the player.**
 > The whole design comes from Juxtopposed's video and Figma file, and every bit of playback is VLC, made by VideoLAN and its volunteers.

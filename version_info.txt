@@ -1,0 +1,19 @@
+# Windows file details shown in the exe's Properties > Details tab.
+VSVersionInfo(
+  ffi=FixedFileInfo(filevers=(1, 0, 0, 0), prodvers=(1, 0, 0, 0), mask=0x3f, flags=0x0,
+                    OS=0x40004, fileType=0x1, subtype=0x0, date=(0, 0)),
+  kids=[
+    StringFileInfo([
+      StringTable('040904B0', [
+        StringStruct('FileDescription', 'VLC Reskin - unofficial reskin of VLC media player'),
+        StringStruct('FileVersion', '1.0.0'),
+        StringStruct('InternalName', 'VLC Reskin'),
+        StringStruct('OriginalFilename', 'VLC Reskin.exe'),
+        StringStruct('ProductName', 'VLC Reskin'),
+        StringStruct('ProductVersion', '1.0.0'),
+        StringStruct('Comments', 'Unofficial. Design by Juxtopposed (CC BY 4.0). Playback by VLC/libVLC from VideoLAN.'),
+      ])
+    ]),
+    VarFileInfo([VarStruct('Translation', [1033, 1200])])
+  ]
+)

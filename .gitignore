@@ -1,0 +1,12 @@
+# Build output (the release zip is uploaded to GitHub Releases instead)
+build/
+dist/
+releases/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Reference captures of the Figma frames and test screenshots used while building
+design/

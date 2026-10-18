@@ -16,7 +16,7 @@ Juxtopposed's note on the Figma page: *"Feel free to use the design to contribut
 CC BY asks that changes be indicated. Compared with the Figma file and video:
 
 - Turned the static frames into a working Qt application; where the frames don't show behaviour, interactions were interpreted from the video.
-- Icons were redrawn as SVG paths to look like the design's icon set rather than exported from it.
+- The app logo (the cone) is the `vlc` icon exported directly from the Figma file. The other icons were redrawn as SVG paths to look like the design's icon set rather than exported from it.
 - Added a Word-style "Start screen" Home (recent media table) as the default, with the design's original tile Home available as "Classic" in Settings.
 - Added a ✕ to the mini player, pinned folders in the library's left column, short descriptions on library sections, a play/pause flash and a scrub preview on the seek bar.
 - The equalizer shows libVLC's real bands (31 Hz-16 kHz) instead of the design's 60 Hz-16 kHz.

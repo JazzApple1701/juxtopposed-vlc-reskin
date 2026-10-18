@@ -28,6 +28,8 @@ See [CREDITS.md](CREDITS.md) for the full attribution and the list of changes ma
 2. Download `VLC-Reskin-<version>-windows-x64.zip` from the [Releases](../../releases) page.
 3. Unzip it anywhere and run **`VLC Reskin.exe`**.
 
+**From then on, open `VLC Reskin.exe` whenever you want the new look.** It's a separate app: it doesn't change or replace your normal VLC, so opening VLC itself still shows the classic interface. To make it easy, right-click `VLC Reskin.exe` → *Pin to Start* or *Send to › Desktop (create shortcut)*, or set it as the app for your videos with *Open with › Choose another app*. Keep the unzipped folder together, since the exe needs the `_internal` folder next to it.
+
 The app isn't code-signed, so the first time Windows may say *"Windows protected your PC"*: click **More info → Run anyway**. Some antivirus tools also flag PyInstaller-built apps by mistake. You can always [build it yourself](#build-from-source) instead.
 
 Windows only for now.
